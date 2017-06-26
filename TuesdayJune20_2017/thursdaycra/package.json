@@ -3,11 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "expect": "^1.20.2",
     "express": "^4.15.3",
     "nf": "0.0.3",
     "ramda": "^0.24.1",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "react-validation": "^2.10.9"
   },
   "devDependencies": {
     "foreman": "^2.0.0",

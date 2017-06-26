@@ -3,7 +3,7 @@ import React from 'react'
 const TextField = props => {
   return (
     <div>
-      <label className="white">
+      <label className="Blue">
         {props.label}
       </label>
       <input
